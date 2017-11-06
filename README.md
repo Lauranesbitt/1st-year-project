@@ -1,7 +1,4 @@
-# 1stYearProject2_Biology
-1st Year, Project 1:
-- Java Biology Application
-
+# 1st Year Project 2: Biology
 Description:
 - Biology is a Java application that allows secondary school students to learn and revise Biology for the leaving certificate
 
