@@ -1,6 +1,3 @@
-# 1stYearProject2_Biologyx
-Java Biology Application
-
 # 1stYearProject2_Biology
 1st Year, Project 1:
 - Java Biology Application
